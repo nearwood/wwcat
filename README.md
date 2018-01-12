@@ -32,4 +32,4 @@ f5a1675 - Decided to add private key to DB for posterity
 b30286c - Decided to add public key and computer hostname while I was at it  
 7584620 - Output total collisions incurred per instance, for curiosity's sake  
 8b2e3d7 - No more collision check -- too slow.
-
+84b50   - Truncate .git for Github
