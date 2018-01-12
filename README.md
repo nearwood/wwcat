@@ -30,5 +30,5 @@ f5a1675 - Decided to add private key to DB for posterity
 b30286c - Decided to add public key and computer hostname while I was at it  
 7584620 - Output total collisions incurred per instance, for curiosity's sake  
 8b2e3d7 - No more collision check -- too slow.  
-??????? - Fixed output. Removed sleep. Cleaned up.
-??????? - Reinitialized .git for moving to GitHub.
+??????? - Fixed output. Removed sleep. Cleaned up.  
+??????? - Reinitialized .git for moving to GitHub.  
